@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DADADA&height=300&section=header&text=SolidCitadel&fontSize=70" />
+</p>
+
 ## Profile
 
 경희대학교 소프트웨어융합대학 컴퓨터공학과
@@ -19,9 +23,10 @@ teddy3582@naver.com
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
 
+<br> 
+<br>
+<br>
 
-
-<!---
-SolidCitadel/SolidCitadel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![SolidCitadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolidCitadel&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolidCitadel&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=good1588)](https://solved.ac/good1588)
