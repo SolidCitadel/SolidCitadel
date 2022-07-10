@@ -6,8 +6,6 @@
 
 경희대학교 소프트웨어융합대학 컴퓨터공학과
 
-teddy3582@naver.com
-
 <br> 
 
 ## Stack
@@ -28,8 +26,9 @@ teddy3582@naver.com
 <br>
 <br>
 
+<!--
 ![SolidCitadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolidCitadel&show_icons=true&theme=dark)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolidCitadel&layout=compact&theme=dark)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=good1588)](https://solved.ac/good1588)
