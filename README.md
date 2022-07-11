@@ -32,7 +32,7 @@
 ![SolidCitadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolidCitadel&show_icons=true&theme=dark)
 -->
 
-![Top Langs](https://github-readme-stats-rose-nine-36.vercel.app/api/top-langs/?username=SolidCitadel&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-rose-nine-36.vercel.app/api/top-langs/?username=SolidCitadel&layout=compact&theme=dark&langs_count=6)
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=good1588)](https://solved.ac/good1588)
