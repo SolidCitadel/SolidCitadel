@@ -19,7 +19,7 @@
 <a><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=ffffff"/></a>
 
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/></a>
-<a><img src="https://img.shields.io/badge/Gatsby-61DAFB?style=flat-square&logo=Gatsby&logoColor=000000"/></a>
+<a><img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=QT&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
