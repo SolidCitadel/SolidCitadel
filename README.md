@@ -15,7 +15,7 @@
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=000000"/></a>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/></a>
-<a><img src="https://img.shields.io/badge/C++-239120?style=flat-square&logo=C%2B%2B&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=ffffff"/></a>
 
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/></a>
