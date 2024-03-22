@@ -21,12 +21,21 @@
 <a><img src="https://img.shields.io/badge/Java-b8732a?style=flat-square&logo=Java&logoColor=ffffff"/></a>
 -->
 
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
+<a><img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=QT&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/></a>
+
+<!--
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/></a>
 <a><img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=QT&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/></a>
+-->
 
 <br> 
 <br>
