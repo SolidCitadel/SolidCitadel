@@ -4,7 +4,7 @@
 
 Backend / Cloud
 
-효율적으로 개발하면서도, 이후의 정합성과 운영 안정성이 보장되는 아키텍처를 지향합니다.
+빠른 개발과 조용한 운영.
 
 Focus: TDD, DDD, Agentic Workflow, Observability, Automated Recovery
 
@@ -12,17 +12,13 @@ Focus: TDD, DDD, Agentic Workflow, Observability, Automated Recovery
 
 ### [UniPlan](https://github.com/SolidCitadel/UniPlan)
 
-시나리오 기반 대학 수강신청 계획 및 실시간 네비게이션 서비스입니다.
-
-수강신청의 불확실성을 시나리오 기반으로 계획할 수 있게 하는 서비스입니다.
+수강신청의 불확실성을 시나리오로 대비하고, 실시간으로 안내받는 서비스입니다.
 
 Tech: Next.js, Spring Boot, MySQL, Redis, Docker, Grafana, Prometheus
 
 ### [UniSync](https://github.com/SolidCitadel/UniSync)
 
-Canvas LMS와 개인 일정 관리를 연결해 학업 일정 관리 비용을 줄이는 서비스입니다.
-
-Canvas의 과제와 일정을 개인 일정 흐름으로 통합하는 서비스입니다.
+Canvas LMS의 과제와 일정을 개인 캘린더로 자동 통합해 학업 일정 관리를 단순화하는 서비스입니다.
 
 Tech: Spring Boot, MySQL, Docker, AWS Cognito, SQS, Lambda, LocalStack
 
