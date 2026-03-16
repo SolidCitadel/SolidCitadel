@@ -4,21 +4,21 @@
 
 Backend / Cloud
 
-빠른 개발과 조용한 운영.
+Build fast. Run silent.
 
-Focus: TDD, DDD, Agentic Workflow, Observability, Automated Recovery
+> TDD · DDD · Agentic Workflow · Observability · Automated Recovery
 
 ## Projects
 
 ### [UniPlan](https://github.com/SolidCitadel/UniPlan)
 
-수강신청의 불확실성을 시나리오로 대비하고, 실시간으로 안내받는 서비스입니다.
+수강신청의 불확실성을 시나리오로 대비하고, 실시간으로 안내받는 서비스.
 
 Tech: Next.js, Spring Boot, MySQL, Redis, Docker, Grafana, Prometheus
 
 ### [UniSync](https://github.com/SolidCitadel/UniSync)
 
-Canvas LMS의 과제와 일정을 개인 캘린더로 자동 통합해 학업 일정 관리를 단순화하는 서비스입니다.
+Canvas LMS 과제·일정을 개인 캘린더로 자동 통합하여 학업 일정 관리를 단순화하는 서비스.
 
 Tech: Spring Boot, MySQL, Docker, AWS Cognito, SQS, Lambda, LocalStack
 
@@ -43,6 +43,4 @@ Grafana, Prometheus, Loki, Tempo, OpenTelemetry, Spring Boot Actuator
 ## GitHub Stats
 
 <img src="https://github-readme-stats-rose-nine-36.vercel.app/api/top-langs/?username=SolidCitadel&layout=compact&theme=dark&langs_count=6" />
-
-
 
