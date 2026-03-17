@@ -4,7 +4,7 @@
 
 Backend / Cloud
 
-Build fast. Run silent.
+Build lean. Run solid.
 
 > TDD · DDD · Agentic Workflow · Observability · Automated Recovery
 
