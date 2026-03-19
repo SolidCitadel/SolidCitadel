@@ -2,7 +2,7 @@
 
 경희대학교 소프트웨어융합대학 컴퓨터공학과
 
-Backend / Cloud
+Backend / Cloud / DevOps
 
 Build lean. Run solid.
 
