@@ -6,7 +6,7 @@ Backend / Cloud / DevOps
 
 Build lean. Run solid.
 
-> TDD · DDD · Agentic Workflow · Observability · Automated Recovery
+> TDD · DDD · Agentic Workflow · Harness
 
 ## Projects
 
