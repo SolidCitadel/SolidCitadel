@@ -14,15 +14,25 @@ Build lean. Run solid.
 
 수강신청의 불확실성을 시나리오로 대비하고, 실시간으로 안내받는 서비스.
 
-Tech: Next.js, Spring Boot, MySQL, Redis, Docker
-Role: 단독 풀스택 개발
+- 2025-2학기
+- **Tech**: Next.js, Spring Boot, MySQL, Redis, Docker, Pytest
+- **Role**: 단독 풀스택 개발
 
 ### [UniSync](https://github.com/SolidCitadel/UniSync)
 
 Canvas LMS 과제·일정을 개인 캘린더로 자동 통합하여 학업 일정 관리를 단순화하는 서비스.
 
-Tech: Spring Boot, MySQL, Docker, AWS Cognito, SQS, Lambda, LocalStack
-Role: 백엔드 전담 및 클라우드 아키텍처 설계
+- 2025-2학기
+- **Tech**: Spring Boot, MySQL, Docker, AWS Cognito, SQS, Lambda, LocalStack
+- **Role**: 백엔드 전담 및 클라우드 아키텍처 설계
+
+### [DocGraph](https://github.com/KHU-Cloud-2026-H/doc-graph)
+
+Notion 문서를 그래프로 모델링하여 변경 발생 시 연관 문서의 정합성을 검증하는 서비스.
+
+- 2026-1학기 (진행중)
+- **Tech**: Kotlin Spring Boot, PostgreSQL, Docker, Justfile
+- **Role**: 백엔드 설계, 정합성 검증 로직 및 REST API 전체 구현, CI/CD파이프라인 및 클라우드 아키텍처 설계
 
 ## Tech
 
@@ -32,11 +42,7 @@ Spring Boot, Spring Cloud Gateway, MySQL, Redis
 
 ### Cloud / Infra
 
-Docker, Nginx, AWS Cognito, SQS, Lambda, LocalStack
-
-### Observability
-
-Grafana, Prometheus, Loki, Tempo, OpenTelemetry, Spring Boot Actuator
+Docker, Nginx, AWS EC2, Cognito, SQS, Lambda, LocalStack
 
 ## Problem Solving
 
