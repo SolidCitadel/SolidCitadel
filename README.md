@@ -14,19 +14,21 @@ Build lean. Run solid.
 
 수강신청의 불확실성을 시나리오로 대비하고, 실시간으로 안내받는 서비스.
 
-Tech: Next.js, Spring Boot, MySQL, Redis, Docker, Grafana, Prometheus
+Tech: Next.js, Spring Boot, MySQL, Redis, Docker
+Role: 단독 풀스택 개발
 
 ### [UniSync](https://github.com/SolidCitadel/UniSync)
 
 Canvas LMS 과제·일정을 개인 캘린더로 자동 통합하여 학업 일정 관리를 단순화하는 서비스.
 
 Tech: Spring Boot, MySQL, Docker, AWS Cognito, SQS, Lambda, LocalStack
+Role: 백엔드 전담 및 클라우드 아키텍처 설계
 
 ## Tech
 
 ### Backend
 
-Spring Boot, Spring Cloud Gateway, MySQL, Redis, OpenAPI
+Spring Boot, Spring Cloud Gateway, MySQL, Redis
 
 ### Cloud / Infra
 
