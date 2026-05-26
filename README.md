@@ -44,6 +44,10 @@ Spring Boot, Spring Cloud Gateway, MySQL, Redis
 
 Docker, Nginx, AWS EC2, Cognito, SQS, Lambda, LocalStack
 
+### Others
+
+React
+
 ## Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=good1588)](https://solved.ac/good1588/)
