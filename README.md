@@ -30,9 +30,9 @@ Canvas LMS 과제·일정을 개인 캘린더로 자동 통합하여 학업 일�
 
 Notion 문서를 그래프로 모델링하여 변경 발생 시 연관 문서의 정합성을 검증하는 서비스.
 
-- 2026-1학기 (진행중)
+- 2026-1학기
 - **Tech**: Kotlin Spring Boot, PostgreSQL, Docker, Justfile
-- **Role**: 백엔드 설계, 정합성 검증 로직 및 REST API 전체 구현, CI/CD파이프라인 및 클라우드 아키텍처 설계
+- **Role**: 백엔드 설계, 정합성 검증 로직 및 REST API 전체 구현, CI파이프라인 및 클라우드 아키텍처 설계
 
 ## Tech
 
